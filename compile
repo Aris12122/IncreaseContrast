@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ -fopenmp -std=c++17 -Wall -Wextra -Wconversion $1.cpp -o $1.exe
+./$1.exe $2 in2.ppm out3.ppm 0.3

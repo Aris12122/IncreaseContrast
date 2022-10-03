@@ -1,0 +1,16 @@
+Time (1 thread(s)): 7083.206055 ms
+Time (2 thread(s)): 5187.245605 ms
+Time (3 thread(s)): 3964.993652 ms
+Time (4 thread(s)): 4057.157471 ms
+Time (5 thread(s)): 3285.708008 ms
+Time (6 thread(s)): 3374.508789 ms
+Time (7 thread(s)): 3503.702148 ms
+Time (8 thread(s)): 3403.276611 ms
+Time (9 thread(s)): 3507.915527 ms
+Time (10 thread(s)): 3482.888428 ms
+Time (11 thread(s)): 3399.382812 ms
+Time (12 thread(s)): 3313.647461 ms
+Time (13 thread(s)): 3292.153809 ms
+Time (14 thread(s)): 3379.593994 ms
+Time (15 thread(s)): 3367.336182 ms
+Time (16 thread(s)): 3270.559082 ms
